@@ -1,8 +1,8 @@
 # audio_patito
 
-##Instala PyGame - pip install pygame -
+## Instala PyGame - pip install pygame -
 
-###SCRIPT
+### SCRIPT
 Bienvenido a Audio Patito, su servicio de correo electrónico por llamada telefónica. ¿Qué desea hacer hoy?
 
 Diga:
