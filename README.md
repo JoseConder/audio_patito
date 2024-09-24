@@ -27,14 +27,23 @@ Se reproducirá los correos en forma ascendente por fecha recibida
 Diga el nombre del asunto de un correo electrónico para más opciones
 
 Correo "materia prima" seleccionado
+
 Diga "reproducir" para volver a escucharlo
+
 Diga "Responder" para crear y mandar una respuesta
+
 “Su mensaje ha sido enviado” Desea continuar en bandeja de entrada
+
 Ha dicho que no
+
 Ha dicho que si
+
 Diga "imprimir " para mandar a imprimir este correo a su impresora personal asignada.
-“Se ha imprimido el correo”
+
+“Se ha impreso el correo”
+
 Diga "eliminar" para eliminar este correo de su bandeja de entrada
+
 “Se ha eliminado el correo”
 
 
